@@ -13,3 +13,7 @@ rating+背包圣遗物截图
 # 3.使用效果
 
 ![img](https://github.com/wickedll/genshin_rating/blob/master/%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C/%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C.png)
+
+# 4.LICENSE
+
+[MIT License](https://github.com/wickedll/genshin_rating/blob/master/LICENSE)
