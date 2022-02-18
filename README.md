@@ -4,6 +4,8 @@
 
 项目下载后，直接将genshin_rating文件夹复制到，[原项目](https://github.com/SilveryStar/Adachi-BOT)plugins文件夹下，重新启动即可
 
+也可使用git直接下载
+
 # 2.命令触发方式
 
 rating+背包圣遗物截图
