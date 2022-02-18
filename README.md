@@ -10,4 +10,4 @@ rating+背包圣遗物截图
 
 # 3.使用效果
 
-![img](file:///C:\Users\ahy\AppData\Roaming\Tencent\Users\798185591\TIM\WinTemp\RichOle\LSL~%E]1CWNZGB@IZS5LK[H.png)
+![img](https://github.com/wickedll/genshin_rating/blob/master/%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C/%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C.png)
